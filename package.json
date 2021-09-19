@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "next": "11.1.2",
+    "pdfmake": "^0.2.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
+    "@types/pdfmake": "^0.1.18",
     "@types/react": "17.0.21",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
